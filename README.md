@@ -1,5 +1,3 @@
-FPGA-based PM2.5 monitoring using Verilog HDL, Sensirion SPS30, UART communication, and real-time air-quality classification.
-
 # FPGA-Based Smart Air Quality Monitoring System
 
 An FPGA-based air-quality monitoring project designed to acquire particulate matter measurements from a Sensirion SPS30 sensor, process PM2.5 data using Verilog HDL, and display the measurements with air-quality status indicators.
